@@ -1,0 +1,1 @@
+{"version":3,"file":"SaldoInsuficienteError.js","sourceRoot":"","sources":["../src/SaldoInsuficienteError.ts"],"names":[],"mappings":";;AAAA,4BAA4C,SAAQ,KAAK;IACrD,YAAY,KAAY,EAAE,KAAY;QAClC,KAAK,CAAC,yCAAyC,KAAK,CAAC,OAAO,CAAC,CAAC,CAAC,UAAU,KAAK,CAAC,OAAO,CAAC,CAAC,CAAC,YAAY,CAAC,KAAK,GAAG,KAAK,CAAC,CAAC,OAAO,CAAC,CAAC,CAAC,GAAG,CAAC,CAAA;IACvI,CAAC;CACJ"}

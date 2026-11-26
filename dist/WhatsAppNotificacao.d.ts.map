@@ -1,0 +1,1 @@
+{"version":3,"file":"WhatsAppNotificacao.d.ts","sourceRoot":"","sources":["../src/WhatsAppNotificacao.ts"],"names":[],"mappings":"AAAA,OAAO,gBAAgB,MAAM,oBAAoB,CAAA;AACjD,OAAO,OAAO,MAAM,WAAW,CAAA;AAE/B,MAAM,CAAC,OAAO,OAAO,mBAAoB,YAAW,gBAAgB;IAChE,MAAM,CAAC,OAAO,EAAC,OAAO,EAAE,QAAQ,EAAC,MAAM,GAAE,IAAI,CAE5C;CACJ"}

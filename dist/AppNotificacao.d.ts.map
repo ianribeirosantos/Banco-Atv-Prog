@@ -1,0 +1,1 @@
+{"version":3,"file":"AppNotificacao.d.ts","sourceRoot":"","sources":["../src/AppNotificacao.ts"],"names":[],"mappings":"AAAA,OAAO,gBAAgB,MAAM,oBAAoB,CAAA;AACjD,OAAO,OAAO,MAAM,WAAW,CAAA;AAE/B,MAAM,CAAC,OAAO,OAAO,cAAe,YAAW,gBAAgB;IAC3D,MAAM,CAAC,OAAO,EAAC,OAAO,EAAE,QAAQ,EAAC,MAAM,GAAE,IAAI,CAE5C;CACJ"}
